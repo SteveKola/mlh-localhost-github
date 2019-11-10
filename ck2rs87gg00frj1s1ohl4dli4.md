@@ -33,7 +33,9 @@ But good things don't come this easy, do they?
 ### The Hard Start
 
 I joined the YouTube classes and oh boy! My battles started.
-No one warned me that ML is 70% percent Maths/Statistics, 30% Computer Science. The classes were heavily based on calculations. I've always preferred practicals than theories.
+I knew already that ML is 70% percent Maths/Statistics, 30% Computer Science. But I never realized the full implication until I started. 
+
+The classes were heavily based on calculations. I've always preferred practicals than theories.
 
 I decided on supplementing my learning resources with Udemy courses. It was a disaster. There are lots of good courses on Udemy. And there are lots of crappy ones, too. 
 
