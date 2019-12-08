@@ -5,7 +5,7 @@ First of all, I'd apologize for breaking the promise I made  [here](https://stev
 
 I'd also apologize for posting real late, I mean, it's been two solid weeks since the bootcamp ended. I've been trying to get up to speed with schoolwork and other niggling engagements.
 
-Hence, as as a means of pacification, I made this giant report which is a compilation of all my activities at the bootcamp. I hope this'd deaden your initial disappointment.
+Hence, as a means of pacification, I made this giant report which is a compilation of all my activities at the bootcamp. I hope this'd deaden your initial disappointment.
 
 # Tuesday 19 November 2019: Welcome Session.
 I spent long long hours in traffic jams, hence I couldn't attend the Artificial Intelligence for Socio-Economic Development Summit at Oriental Hotel, Lagos, which was a gathering of the global ecosystem enterprise, startups and investors aimed to support Data Science Nigeria's vision of building Nigeria's AI ecosystem with proven AI solutions to tackle Africa's socio-economic problems. 
@@ -125,7 +125,7 @@ by  [Dr Stephen Odaibo](https://www.linkedin.com/in/sgodaibo/) , CEO/Founder Ret
 No Deep Learning, for me.
 
 - ### Key Concepts in Machine Learning.
-by by  [Samuel Edet](https://www.linkedin.com/in/sedet/?originalSubdomain=it) , Doctoral Researcher , Economics,
+by  [Samuel Edet](https://www.linkedin.com/in/sedet/?originalSubdomain=it) , Doctoral Researcher , Economics,
 Networks and Business Analytics at IMT School
 for Advanced Studies, Italy.
 
@@ -422,7 +422,7 @@ At the end of the session, I won myself a Microsoft t-shirt for asking a questio
 
 ![18.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1575649056653/k9TzyMGpa.jpeg)
 
-The top 20 participants in the InterCampus ML competition we did as qualifiers, together with the top 3 female participants and 2 AI Campus Ambassadors outside the top 20, participated in a mini competition in which the top 2 winners would qualify for fully-funded scholarships for M.Sc in Artificial Intelligence at the University of Stellen, South Africa. 
+The top 20 participants in the InterCampus ML competition we did as qualifiers, together with the top 3 female participants and 2 AI Campus Ambassadors outside the top 20, participated in a mini competition in which the top 2 winners would qualify for fully-funded scholarships for M.Sc in Artificial Intelligence at the Stellenbosch University, South Africa. 
 
 ![18b.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1575649090757/PcoDOr2y9.jpeg)
 
