@@ -31,7 +31,7 @@ My teammate happened to be a fellow student from my school, and we have never me
 
 Even throughout the NaijaHacks online sessions, we didn’t meet physically once. In fact, we’d be meeting for the first time at the Expo later today.
 
- The BlockBuster Week.
+## The BlockBuster Week.
 
 The NaijaHacks week was a very crazy week for me. That was my CATs (Continuous Assessment Test) week. I had 6 tests within Monday to Thursday.
 
@@ -75,7 +75,7 @@ Maybe next year, NaijaHacks would borrow a leaf from Data Science Nigeria and ma
 
 ## WHAT’S NEXT?
 
-I’m looking forward to the Expo happening later today. Maybe we’d win ourselves some prizes or not. 
+I’m looking forward to the Expo happening later today. We'd see maybe we’d win ourselves some prizes and awards. 
 
 I’m also looking forward to network with all the amazing people who’d managed to make it to NaijaHacks ’19 Expo. I know it wasn't easy at all.
 
