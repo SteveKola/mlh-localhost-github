@@ -39,7 +39,7 @@ Since our app is designed to work offline, there won't an issue of network laten
 
 Read more about AgroAI  [here](https://devpost.com/software/agroai).
 
-### WORKING ON OUR PITCH
+### WORKING ON OUR PITCH AND SLIDES
 
 We did this the night before the expo day, and it took up the whole night. I remember not sleeping until 5am, and I'd to wake up by 7am for the expo day preparations.
 
