@@ -1,14 +1,10 @@
 ## How I Won A Gold Medal at NaijaHacks '19
 
-
-![2.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1580206949027/HyPzCQpmJ.jpeg)
-
 Happy New Year, folks! This is my first post this year.
 
 It's been over a month since we won Gold at the biggest hackathon in Nigeria, NaijaHacks, 2019 edition, and I apologize for writing late. The usual me would have forgotten about writing about my experience, but I have developed this mindset that a project is not truly finished until I'd written a documentation on it.
 
-I wrote about the very draining, a week long, online hackathon in  [an earlier post.](https://steventure.hashnode.dev/naijahacks-2019-the-experience-so-far-ck4991xgo02n7u4s1cjkqevnr)  This article will only been concerned about the Expo day. 
-
+I wrote about the very draining, a week long, online hackathon in  [an earlier post.](https://steventure.hashnode.dev/naijahacks-2019-the-experience-so-far-ck4991xgo02n7u4s1cjkqevnr)  This article will only been concerned about the Expo day.
 
 > An expo is a large exhibition event where goods and products (in our case, projects) are displayed.
 
