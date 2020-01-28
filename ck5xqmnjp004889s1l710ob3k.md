@@ -68,7 +68,7 @@ Here is a picture of a team(not ours) pitching to a judge.
 
 ### WINNERS ANNOUNCED
 
-I couldn't believe it when AgroAI was announced among the best 12 projects. With how horrible our first pitch session was, I never thought we could rank among the 12 projects at NaijaHacks '19. The only reasonable explanation is that we must have ranked really high on the rest of the our judges' sheets.
+I couldn't believe it when AgroAI was announced among the best 12 projects. With how horrible our first pitch session was, I never thought we could rank among the 12 projects at NaijaHacks '19. The only reasonable explanation is that we must have ranked crazily high on other judges' sheets.
 
 I mean, I walked around and saw lots of wonderful projects, yet we still manage to scrape through as the one of the top 12 projects. 
 
