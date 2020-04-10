@@ -64,6 +64,6 @@ If you are having any other problem with installation or with any of the steps a
 
 If you find this article insightful or interesting, click on the various buttons.
 
-In case you'd want to have a chat with me, you always reach me on  [Twitter](https://twitter.com/Stevenkola6)  and  [LinkedIn](https://www.linkedin.com/in/steven-kolawole-80/) .
+In case you'd want to have a chat with me, you always reach me on  [Twitter](https://twitter.com/steveddev)  and  [LinkedIn](https://www.linkedin.com/in/steven-kolawole-80/) .
 
 Happy Learning!
