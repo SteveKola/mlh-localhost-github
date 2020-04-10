@@ -4,7 +4,7 @@
 
 How many people have you encountered, that gave up on their coding dreams because they don't have PCs of their own? A rather high number, for me.
 
-This is a continuation of my earlier article where I explained how to install Jupyter notebooks on older and suboptimal computers. Read about it here:  https://steventure.hashnode.dev/circumventing-the-errors-of-installing-jupyter-notebook-on-older-and-smaller-computers-ck8uoe93j008zl6s1iivgsbbs
+*This is a continuation of my earlier article where I explained how to install Jupyter notebooks on older and suboptimal computers. Read about it here:*  https://steventure.hashnode.dev/circumventing-the-errors-of-installing-jupyter-notebook-on-older-and-smaller-computers-ck8uoe93j008zl6s1iivgsbbs
 
 More often than not, I think my students find it easier to install Jupyter notebook on their smartphones than on their PCs'.
 
