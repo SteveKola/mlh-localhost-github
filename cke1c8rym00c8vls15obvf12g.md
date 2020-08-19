@@ -1,4 +1,4 @@
-## Practical Guide to Data Analysis and Applied Machine Learning using Python
+## Practical Guide to Data Analysis and Machine Learning using Python
 
 *A hands-on guide to mastering the first baby steps in building Machine Learning applications.*
 
