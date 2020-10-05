@@ -212,7 +212,7 @@ Opeyemi, a friend of mine, made a reference to this article this evening (I can'
 
 - When I finished writing this back then, I debated posting it publicly, but I later did. HackSultan somehow found it and asked me to reach out to him. I could still remember Precious shouting with joy when she saw HackSultan's tweet reply. We were given about 20GB of data or so. It lasted for a week.
 
-- I did my first internship job shortly afterwards. I'm currently doing my second. 
+- I did my first internship job shortly afterwards. I'm currently doing my second. And I'm much more financially comfortable now. Not quite, though.
 
 - I got a sleek PC two months ago, courtesy of DevCareers. I also got a free 3 months Hub subscription with constant electricity and internet connection. 
 
