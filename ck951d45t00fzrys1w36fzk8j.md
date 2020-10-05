@@ -206,6 +206,18 @@ But then, it's just another mountain, which, I think I'd climb over soon. One wa
 And there'd be others, this I'm sure of. Maybe one day, after climbing and climbing and climbing, maybe I'd reach the summit (the highest peak of a hill or mountain), with an ocean of white-capped peaks on my every side and the clouds at my feet. Maybe…
 
 
-### Updates
+### MODIFIED... October 05, evening.
 
-When I finished writing this, I debated posting it publicly, and I later did. HackSultan somehow found it and asked me to reach out to him. I could still remember p
+Opeyemi, a friend of mine, made a reference to this article this evening (I can't fathom how she stumbled on it) and I came to check it up. I couldn't help getting awashed in emotions. Lots of stuff have changed since then.
+
+- When I finished writing this back then, I debated posting it publicly, but I later did. HackSultan somehow found it and asked me to reach out to him. I could still remember Precious shouting with joy when she saw HackSultan's tweet reply. We were given about 20GB of data or so. It lasted for a week.
+
+- I did my first internship job shortly afterwards. I'm currently doing my second. 
+
+- I got a sleek PC two months ago, courtesy of DevCareers. I also got a free 3 months Hub subscription with constant electricity and internet connection. 
+
+- My public speaking skill is improving a lot these days. I gave a talk at this year's PyCon Africa and I'll be giving another one soon at PyData Global 2020.
+
+There are lots of small wins along the way, as well as lots of niggling disappointments. Since 3 months ago though, I've switched from this form of daily journalling to [Gratitude Journalling](https://ggia.berkeley.edu/practice/gratitude_journal). 
+
+These days, I only write about the days' positives and what I could do to be achieve my (failing or not) dreams. Viktor Frankl said that *between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.*
