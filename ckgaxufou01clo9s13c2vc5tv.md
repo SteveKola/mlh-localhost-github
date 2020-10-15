@@ -23,7 +23,7 @@ Having the highest selection rate in this year's Bootcamp- a stark contrast to o
 > 
 "If you want to go fast, go alone. If you want to go far, go together."
 
-It is also a huge testament to the insane amount of work we put in to achieve this, even with Covid19 spoiling our plans for physical meetups. And it a testimony to the collaboration between AI+ Abeokuta and AI+ FUNAAB, the elaborate, data-driven (with surveys) preparation, the virtual classrooms in designated Whatsapp group, and the peer-to-peer mentorship peering.
+It is also a huge testament to the insane amount of work we put in to achieve this, even with Covid19 spoiling our plans for physical meetups. And it a testimony to the collaboration between AI+ Abeokuta and AI+ FUNAAB, the elaborate, data-driven (with surveys) preparation, the virtual classrooms in designated Whatsapp group, and the peer-to-peer mentorship pairing.
 
 Here are links to  [our GitHub repo containing our classes' materials](https://github.com/DSN-AIplus-Abeokuta/Pre-Bootcamp_Tutorials) and  [our mentorship pairing list](https://docs.google.com/spreadsheets/d/1g2kjjw2ritrlpM0X9jB502YjFnPPpCHwWK0hHz7lKC0/edit?usp=sharing).
 
