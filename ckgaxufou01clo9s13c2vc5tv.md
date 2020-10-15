@@ -1,6 +1,7 @@
 ## Spreading Happiness via Artificial Intelligence; A Big Win to Community Growth
 
-![funaab.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602773252640/t6bPJ6LmJ.jpeg)
+
+![01.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602773466342/It3KRGGa_.png)
 
 Last year, I managed to make it to the crème de la crème AI event in Nigeria,  [Data Science Nigeria](https://twitter.com/DataScienceNIG)  AI Bootcamp 2019. I was at position 60 out of the top 150 participants selected from the qualifying Kaggle competition. I wrote articles on  [how I qualified](https://steventure.hashnode.dev/how-i-qualified-for-datasciencenigeria-2019-artificial-intelligence-bootcamp) and  [my experiences at the Bootcamp](https://steventure.hashnode.dev/datasciencenigeria-artificial-intelligence-bootcamp-2019-reviews-and-reflections).
 
