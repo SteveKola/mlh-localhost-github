@@ -1,6 +1,6 @@
 ## Web Scraping for Data Scientists
 
-Enough of readymade CSV files; Do Data Science the real-life way.
+***Enough of readymade CSV files; Do Data Science the real-life way.***
 
 ![search.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1605220130586/5Ryd2n8wD.jpeg)
 
