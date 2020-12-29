@@ -30,3 +30,13 @@ Here are links to  [our GitHub repo containing our classes' materials](https://g
 A big shoutout to all of our tutors and organizers, for making this a huge success. Cheers to helping each other grow!
 
 A special appreciation to Data Science Nigeria for this initiative to grow the AI talents in Nigeria. Cheers to unearthing 10 million AI talents in Nigeria within 10 years!
+
+***************************************************************
+
+### UPDATE!
+
+At the subsequent Bootcamp, I was one of the two nominees with the highest number of votes for the Mr. Algorithm award, which is an award in recognition of the most outstanding male in the Data Science Community who not only strives to be the best in Data Science but also invested in helping others through knowledge sharing.
+
+![Screenshot_2020-11-13-10-59-43-709_us.zoom.videomeetings.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609231443082/1vz450iFk.jpeg)
+
+I did not win the final voting process, but the fact that I made it that far spoke volumes in the testament of the enormous amount of work we’d put in, in spreading love and happiness via Artificial Intelligence in our communities.
