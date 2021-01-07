@@ -6,7 +6,11 @@
 
 Hey folks, season greetings to y'all! 
 
-I finally decided to work more on building end to end machine learning applications so I'm currently working on an apartment rent pricing app, which you'd use if you are (hypothetically)looking for an apartment in any of the megacities in Nigeria - think Lagos, Abuja, Port Harcourt, Ibadan, etc. I haven't decided on a cool name for the app yet. I'm thinking of ApartRent or something. The name would probably sort itself out, I'd worry more about the development.
+I finally decided to work more on building end to end machine learning applications so I'm currently working on an apartment rent pricing app, which you'd use if you are (hypothetically)looking for an apartment in any of the megacities in Nigeria - think Lagos, Abuja, Port Harcourt, Ibadan, etc. I haven't decided on a cool name for the app yet. I'm thinking of ApartRent or something. The name would probably sort itself out, I'd worry more about the development, for now.
+
+If you have ever had to search for an apartment before, you'd appreciate how frustrating the process is. I did, when I got into college. I didn't want to stay in the school hostels, and it was horrible traversing the whole neighborhood trying to find the right apartment at the right price and best opportunity cost.
+
+Most times, you'd have a target spot you'd want the apartment to be located at, and a specific amount of money that you're willing to cough up. Also, there are few trade-offs you'd have to compromise on; For instance, would you take a serviced apartment over one that is closer to the park or bus stop? How much are the different perks worth, compared to each other? How about we employ Machine Learning to take care of decisions like this for us?
 
 So in this series, I'll walk you through the whole development process, from start to finish. The steps will include;
 
