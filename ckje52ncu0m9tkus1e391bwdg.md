@@ -2,7 +2,7 @@
 
 ***An end-to-end machine learning application development process walkthrough.***
 
-![house_rent_pic.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609496918134/ww3s_DLqX.jpeg)
+![house_rent.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1610092492453/GFaXgy0tC.jpeg)
 
 Hey folks, season greetings to y'all! 
 
