@@ -13,7 +13,7 @@ The usual first step in most Data Science projects is securing an appropriate an
 
 ### TL;DR
 
-Here's the link to the code on GitHub:
+Here's  [the link to the code on GitHub](https://github.com/stevekola):
 
 ### Getting Started
 
