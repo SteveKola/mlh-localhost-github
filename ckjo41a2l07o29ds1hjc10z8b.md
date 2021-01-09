@@ -1,6 +1,6 @@
 ## Building an Apartment Rent Pricing App I: Data Collation via Web Scraping
 
-*E2E ML Application Development Process Walkthrough.
+*Gathering Data for an E2E ML Application Development Process.
 *
 
 ![web_scraping.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1610097304361/7ReO4Qdjc.jpeg)
