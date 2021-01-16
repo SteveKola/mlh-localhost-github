@@ -1,4 +1,4 @@
-## Building an Apartment Rent Pricing App I: Data Wrangling 101
+## Building an Apartment Rent Pricing App II: Data Wrangling 101
 
 *E2E ML Application Development Process Walkthrough.*
 
