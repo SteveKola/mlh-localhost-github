@@ -21,3 +21,9 @@ Check out the code on  [GitHub](https://github.com/SteveKola/house_rent_pricing_
 ## Data Inspection
 
 loading…
+
+## Updates
+
+I had to pause working on this project as I got so engrossed in work commitments, open-source development, and community works. In case I decide to take it up again, I’d write new articles. and you could always check the  [project’s GitHub page](https://github.com/SteveKola/house_rent_pricing_app) for new updates.
+
+Thank you all for coming this far on this project. Feel free to say hi to me on  [LinkedIn](https://www.linkedin.com/in/steven-kolawole-80/) and  [Twitter](https://twitter.com/steveddev).
