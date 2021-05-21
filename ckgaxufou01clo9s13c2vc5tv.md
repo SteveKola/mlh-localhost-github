@@ -23,7 +23,7 @@ Having the highest selection rate in this year's Bootcamp- a stark contrast to o
 > 
 "If you want to go fast, go alone. If you want to go far, go together."
 
-It is also a huge testament to the insane amount of work we put in to achieve this, even with Covid19 spoiling our plans for physical meetups. And it a testimony to the collaboration between AI+ Abeokuta and AI+ FUNAAB, the elaborate, data-driven (with surveys) preparation, the virtual classrooms in designated Whatsapp group, and the peer-to-peer mentorship pairing.
+It is also a huge testament to the insane amount of work we put in to achieve this, even with Covid19 spoiling our plans for physical meetups. And it a testimony to the collaboration between AI+ Abeokuta and AI+ FUNAAB, the elaborate, data-driven (with surveys) preparation, the virtual classrooms in designated Whatsapp groups, and the peer-to-peer mentorship pairing.
 
 Here are links to  [our GitHub repo containing our classes' materials](https://github.com/DSN-AIplus-Abeokuta/Pre-Bootcamp_Tutorials) and  [our mentorship pairing list](https://docs.google.com/spreadsheets/d/1g2kjjw2ritrlpM0X9jB502YjFnPPpCHwWK0hHz7lKC0/edit?usp=sharing).
 
@@ -35,7 +35,12 @@ A special appreciation to Data Science Nigeria for this initiative to grow the A
 
 ### UPDATE!
 
-At the subsequent Bootcamp, I was one of the two nominees with the highest number of votes for the Mr. Algorithm award, which is an award in recognition of the most outstanding male in the Data Science Community who not only strives to be the best in Data Science but also invested in helping others through knowledge sharing.
+At the subsequent Bootcamp, AI+ Abeokuta won the “AI City of the Year” Award for being the city with the largest number of participants.
+
+
+![IMG-20201114-WA0042.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1621601777077/xAeNzQrOk.jpeg)
+
+Also, I was one of the two nominees with the highest number of votes (which means 1st runner-up) for the Mr. Algorithm award which is an award in recognition of the most outstanding male in the Data Science Community who not only strives to be the best in Data Science but also invested in helping others through knowledge sharing.
 
 ![Screenshot_2020-11-13-10-59-43-709_us.zoom.videomeetings.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609231443082/1vz450iFk.jpeg)
 
